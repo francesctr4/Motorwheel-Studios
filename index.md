@@ -8,41 +8,35 @@
 
 ## Our project
 
+
+
 ## About the game
+
+
 
 ## Gameplay
 
+(Aqui va el video)
+
 ## Controls
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+(Aqui van los controles)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+
+## Team members
 
 <p align="center">
   <img 
-    width="360"
-    height="360"
+    width="720"
+    height="720"
     src = https://user-images.githubusercontent.com/99948892/170458882-e7f0fb65-747d-4430-8600-3cd06dedd1dd.png
 
 </p>
-
-## Team members
+  
+(Aqui va la foto de grupo)
 
 _**Management:** Víctor Gil_
 * **GitHub:** [Ludo-pixel](https://github.com/Ludo-pixel)
@@ -61,10 +55,12 @@ _**Art/Design:** Jan Liria_
 
 _Besides the current responsibility, each team member has worked on the game's code._
 
-For more information see our [Wiki page](https://github.com/francesctr4/Motorwheel-Studios/wiki)
+### References
+  
+* For more information see our [Wiki page](https://github.com/francesctr4/Motorwheel-Studios/wiki)
 
-Download the last version of the game
+* Download the [Latest version](https://github.com/francesctr4/Motorwheel-Studios/releases) of the game
 
-Check our [Github repository](https://github.com/francesctr4/Motorwheel-Studios)
+* Check our [Github repository](https://github.com/francesctr4/Motorwheel-Studios)
 
 _Tribute by Motorwheel Studios_
