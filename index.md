@@ -1,14 +1,5 @@
-<p align="center">
-  <img 
-    width="750"
-    height="322,5"
-    src = https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/251d52afeb09449719aa7ba0b842c755.png>
-</p>
-
-<p align="center">
-  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/251d52afeb09449719aa7ba0b842c755.png">
-</p>
-
+![Windjammers](https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/251d52afeb09449719aa7ba0b842c755.png)
+	
 ## Our project
 
 This project consists in the replication of the 1994 Windjammers arcade game developed and published 
