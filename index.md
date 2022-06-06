@@ -109,7 +109,7 @@ at the beginning of the set. Players can't move between sets either.
 ## Team members
 
 ![Motorwheel Logo](https://user-images.githubusercontent.com/99948892/170458882-e7f0fb65-747d-4430-8600-3cd06dedd1dd.png)
-
+ 
 (Aqui va la foto de grupo)
 
 _**Management:** Víctor Gil_
