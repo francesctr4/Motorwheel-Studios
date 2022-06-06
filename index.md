@@ -7,13 +7,15 @@
 
 ## Our project
 
-
+We’re going to replicate the 1994 Gunbird game arcade version developed and published by Psyko as a tribute to the game. This project has been done by four catalan students of CITM - UPC (Terrasa, Spain).
 
 ## About the game
 
 Windjammers was released in 1994 by DataEast on the NEO GEO console and arcade system, and in Japan it was known as Flying Power Disc. 
 
-It's a sports arcade game that consists of two players versus each other (or a player vs the CPU) in a 2 dimensional field, similar to air hockey or the famous video game Pong, from which they take its mechanics. However, this game brings more movement freedom to the player and new mechanics such as the special throws or movable obstacles throughout the court. 
+It's a sports arcade game that consists of two players versus each other (or a player vs the CPU) in a 2 dimensional field, similar to air hockey or the famous video
+game Pong, from which they take its mechanics. However, this game brings more movement freedom to the player and new mechanics such as the special throws or movable
+obstacles throughout the court. 
 
 ## Gameplay
 
