@@ -18,7 +18,7 @@ game Pong, from which they take its mechanics.
 However, this game brings more movement freedom to the player and new mechanics such as the special throws or movable
 obstacles throughout the court. 
 
-## Project presentation and gameplay
+## Project presentation and gameplay (video)
 
 [![Windjammers Tribute - Motorwheel Studios](https://img.youtube.com/vi/uvY76CcILf0/0.jpg)](https://www.youtube.com/watch?v=uvY76CcILf0)
 
