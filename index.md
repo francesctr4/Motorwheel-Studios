@@ -19,11 +19,85 @@
 
 ## Controls
 
-```markdown
+The players can only move if they don't have the disk and only if they have received the disk from the arbit
+at the beginning of the set. Players can't move between sets either.
 
-(Aqui van los controles)
+### GAMEPAD ###
 
-```
+-- BOTH PLAYERS --
+
+	Left joystick --> Move
+
+	X (Square in PS4 controller) --> Throw disk forward
+	Left joystick UP + X --> Throw disk up
+	Left joystick DOWN + X --> Throw disk down
+
+### KEYBOARD ###
+
+-- PLAYER 1 --
+
+	W --> Move up
+	A --> Move left
+	S --> Move down
+	D --> Move right
+
+	C --> Throw disk forward
+	Hold W + C --> Throw disk up-right
+	Hold S + C --> Throw disk down-right
+
+-- PLAYER 2 --
+
+	I --> Move up
+	J --> Move left
+	K --> Move down
+	L --> Move right
+
+	. (period) --> Throw disk forward
+	Hold I + . --> Throw disk up-left
+	Hold K + . --> Throw disk down-left
+
+## Other controls
+
+	ESC --> Exit game.
+
+	SPACE (A in gamepad) --> Next scene (Navigate through UI)*
+
+	 	* Only player 1 can move to next scene.
+
+	 	** Sometimes you can't go to next scene because the scene in particular needs some input
+		from the player (selection screens).
+
+	 	*** During the match, button for going to next scene in controller changes to BACK 
+		(Share in PS4 controller) so as not to going back to the title screen by error.
+
+### Selection Menus
+
+### GAMEPAD ###
+
+-- BOTH PLAYERS --
+
+	Directional PAD UP & DOWN --> Move through selection.
+	X (square) --> Select character and map (map can only be chosen by player 1).
+
+### KEYBOARD ###
+
+-- PLAYER 1 --
+
+	W & S --> Move through selection (characters P1 and map)
+
+	C --> Select player 1 character and map
+
+-- PLAYER 2 --
+
+	I & K --> Move through selection (characters P2)
+
+	. (period) --> Select player 2 character
+
+-- DEBUG KEYS --
+
+	F2 --> Display Colliders
+	F3 --> Direct win for player 1
+	F4 --> Direct win for player 2
 
 ## Team members
 
