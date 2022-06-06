@@ -130,3 +130,8 @@ at the beginning of the set. Players can't move between sets either.
 	F2 --> Display Colliders
 	F3 --> Direct win for player 1
 	F4 --> Direct win for player 2
+
+## DISCLAIMER
+
+In case you wanted to execute the code, change the working directory of the project to: $(SolutionDir)/$(SolutionName)/Game 
+(you can change this in Solution Properties -> Debugging -> Working directory).
