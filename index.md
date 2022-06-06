@@ -20,8 +20,6 @@ obstacles throughout the court.
 
 ## Project presentation and gameplay (video)
 
-[![Windjammers Tribute - Motorwheel Studios](https://img.youtube.com/vi/uvY76CcILf0/0.jpg)](https://www.youtube.com/watch?v=uvY76CcILf0)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvY76CcILf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Controls
