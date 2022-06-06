@@ -131,7 +131,7 @@ _Besides the current responsibility, each team member has worked on the game's c
   
 * For more information see our [Wiki page](https://github.com/francesctr4/Motorwheel-Studios/wiki)
 
-* Download the [Latest version](https://github.com/francesctr4/Motorwheel-Studios/releases/tag/v1.0.0) of the game
+* Download the [Latest version](https://github.com/francesctr4/Motorwheel-Studios/releases/download/v1.0.0/MotorwheelStudios_Windjammers_v1.0.zip) of the game
 
 * Check our [Github repository](https://github.com/francesctr4/Motorwheel-Studios)
 
