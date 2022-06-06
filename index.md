@@ -74,11 +74,13 @@ at the beginning of the set. Players can't move between sets either.
 
 	 	* Only player 1 can move to next scene.
 
-	 	** Sometimes you can't go to next scene because the scene in particular needs some input
+	 	** Sometimes you can't go to next scene because 
+		the scene in particular needs some input
 		from the player (selection screens).
 
-	 	*** During the match, button for going to next scene in controller changes to BACK 
-		(Share in PS4 controller) so as not to going back to the title screen by error.
+	 	*** During the match, button for going to next scene 
+		in controller changes to BACK (Share in PS4 controller) 
+		so as not to going back to the title screen by error.
 
 ### Selection Menus
 
