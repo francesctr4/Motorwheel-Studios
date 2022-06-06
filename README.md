@@ -46,7 +46,8 @@ In case there is a draw at the final set, sudden death will occur, rewarding wit
 who manages to score in the opponents goal. If there is a draw at sudden death, both players will lose by the
 result of "Draw Game".
 
-	The available characters are Hiromi Mita, Jordi Costa and Gary Scott and the playable maps are Beach, Concrete and Stadium.
+	The available characters are Hiromi Mita, Jordi Costa and Gary Scott 
+	and the playable maps are Beach, Concrete and Stadium.
 
 ## Game controls
 
@@ -98,8 +99,8 @@ at the beginning of the set. Players can't move between sets either.
 	 	** Sometimes you can't go to next scene because the scene in particular needs some input
 		from the player (selection screens).
 
-	 	*** During the match, button for going to next scene in controller changes to BACK (Share in PS4 controller)
-		so as not to going back to the title screen by error.
+	 	*** During the match, button for going to next scene in controller changes to BACK 
+		(Share in PS4 controller) so as not to going back to the title screen by error.
 
 ### Selection Menus
 
