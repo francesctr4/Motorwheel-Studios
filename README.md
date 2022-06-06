@@ -133,5 +133,5 @@ at the beginning of the set. Players can't move between sets either.
 
 ## DISCLAIMER
 
-In case you wanted to execute the code, change the working directory of the project to: $(SolutionDir)/$(SolutionName)/Game 
+In case you wanted to execute the code, change the working directory of the project to: ``$(SolutionDir)/$(SolutionName)/Game`` 
 (you can change this in Solution Properties -> Debugging -> Working directory).
