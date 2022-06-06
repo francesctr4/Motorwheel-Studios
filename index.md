@@ -2,8 +2,7 @@
   <img 
     width="750"
     height="322,5"
-    src = https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/251d52afeb09449719aa7ba0b842c755.png
-  >
+    src = https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/251d52afeb09449719aa7ba0b842c755.png>
 </p>
 
 ## Our project
@@ -32,8 +31,7 @@
   <img 
     width="720"
     height="720"
-    src = https://user-images.githubusercontent.com/99948892/170458882-e7f0fb65-747d-4430-8600-3cd06dedd1dd.png
-
+    src = https://user-images.githubusercontent.com/99948892/170458882-e7f0fb65-747d-4430-8600-3cd06dedd1dd.png>
 </p>
   
 (Aqui va la foto de grupo)
